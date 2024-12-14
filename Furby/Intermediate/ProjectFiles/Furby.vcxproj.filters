@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Furby.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Furby.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\FurbyEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\Furby">
+      <UniqueIdentifier>{10DC6B4E-C76A-3D5E-9278-3F4DB5E2C02A}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Furby\Furby.Build.cs">
+      <Filter>Source\Furby</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Furby\Furby.cpp">
+      <Filter>Source\Furby</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Furby\Furby.h">
+      <Filter>Source\Furby</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Furby\FurbyCharacter.cpp">
+      <Filter>Source\Furby</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Furby\FurbyCharacter.h">
+      <Filter>Source\Furby</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Furby\FurbyGameMode.cpp">
+      <Filter>Source\Furby</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Furby\FurbyGameMode.h">
+      <Filter>Source\Furby</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Furby\FurbyPlayerController.cpp">
+      <Filter>Source\Furby</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Furby\FurbyPlayerController.h">
+      <Filter>Source\Furby</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Furby\FurbyProjectile.cpp">
+      <Filter>Source\Furby</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Furby\FurbyProjectile.h">
+      <Filter>Source\Furby</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Furby\TP_PickUpComponent.cpp">
+      <Filter>Source\Furby</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Furby\TP_PickUpComponent.h">
+      <Filter>Source\Furby</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Furby\TP_WeaponComponent.cpp">
+      <Filter>Source\Furby</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Furby\TP_WeaponComponent.h">
+      <Filter>Source\Furby</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

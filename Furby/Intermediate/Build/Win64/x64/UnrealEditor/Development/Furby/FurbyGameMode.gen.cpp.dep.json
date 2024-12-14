@@ -1,0 +1,19 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\gamingpc.store\\desktop\\five-nights-at-furbys\\furby\\intermediate\\build\\win64\\unrealeditor\\inc\\furby\\uht\\furbygamemode.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\gamingpc.store\\desktop\\five-nights-at-furbys\\furby\\intermediate\\build\\win64\\x64\\furbyeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\gamingpc.store\\desktop\\five-nights-at-furbys\\furby\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\furby\\definitions.furby.h",
+            "c:\\users\\gamingpc.store\\desktop\\five-nights-at-furbys\\furby\\source\\furby\\furbygamemode.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\serverstatreplicator.generated.h",
+            "c:\\program files\\epic games\\ue_5.4\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gamemodebase.generated.h",
+            "c:\\users\\gamingpc.store\\desktop\\five-nights-at-furbys\\furby\\intermediate\\build\\win64\\unrealeditor\\inc\\furby\\uht\\furbygamemode.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Furby",
+			"Path": "..\\Source\\Furby.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "FurbyEditor",
+			"Path": "..\\Source\\FurbyEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
