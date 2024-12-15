@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\david\\onedrive\\dokumente\\github\\five-nights-at-furbys\\furby\\intermediate\\build\\win64\\unrealgame\\inc\\furby\\uht\\tp_weaponcomponent.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\david\\onedrive\\dokumente\\github\\five-nights-at-furbys\\furby\\intermediate\\build\\win64\\x64\\furby\\development\\engine\\sharedpch.engine.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\david\\onedrive\\dokumente\\github\\five-nights-at-furbys\\furby\\intermediate\\build\\win64\\x64\\unrealgame\\development\\furby\\definitions.furby.h",
+            "c:\\users\\david\\onedrive\\dokumente\\github\\five-nights-at-furbys\\furby\\source\\furby\\tp_weaponcomponent.h",
+            "c:\\users\\david\\onedrive\\dokumente\\github\\five-nights-at-furbys\\furby\\intermediate\\build\\win64\\unrealgame\\inc\\furby\\uht\\tp_weaponcomponent.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\david\\onedrive\\dokumente\\github\\five-nights-at-furbys\\furby\\intermediate\\build\\win64\\unrealgame\\inc\\furby\\uht\\furby.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\david\\onedrive\\dokumente\\github\\five-nights-at-furbys\\furby\\intermediate\\build\\win64\\x64\\furby\\development\\engine\\sharedpch.engine.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\david\\onedrive\\dokumente\\github\\five-nights-at-furbys\\furby\\intermediate\\build\\win64\\x64\\unrealgame\\development\\furby\\definitions.furby.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
