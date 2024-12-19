@@ -21,7 +21,7 @@ void EmptyLinkFunctionForGeneratedCodeFurby_init() {}
 				SingletonFuncArray,
 				UE_ARRAY_COUNT(SingletonFuncArray),
 				PKG_CompiledIn | 0x00000000,
-				0xB5C2C261,
+				0xE2BF125C,
 				0xF0DF9332,
 				METADATA_PARAMS(0, nullptr)
 			};
@@ -29,5 +29,5 @@ void EmptyLinkFunctionForGeneratedCodeFurby_init() {}
 		}
 		return Z_Registration_Info_UPackage__Script_Furby.OuterSingleton;
 	}
-	static FRegisterCompiledInInfo Z_CompiledInDeferPackage_UPackage__Script_Furby(Z_Construct_UPackage__Script_Furby, TEXT("/Script/Furby"), Z_Registration_Info_UPackage__Script_Furby, CONSTRUCT_RELOAD_VERSION_INFO(FPackageReloadVersionInfo, 0xB5C2C261, 0xF0DF9332));
+	static FRegisterCompiledInInfo Z_CompiledInDeferPackage_UPackage__Script_Furby(Z_Construct_UPackage__Script_Furby, TEXT("/Script/Furby"), Z_Registration_Info_UPackage__Script_Furby, CONSTRUCT_RELOAD_VERSION_INFO(FPackageReloadVersionInfo, 0xE2BF125C, 0xF0DF9332));
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
